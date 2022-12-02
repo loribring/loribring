@@ -5,8 +5,8 @@
 
 
 - 🔭 I’m currently building and delivering education and technical conetnt with SMEs. 
-- 🌱 I’m currently learning UX Design.
-- :mushroom: I’m looking to collaborate on Tech for Social Good (and anything adjacant to it). 
+- :shell: I’m currently learning UX Design.
+- :mushroom: I’m looking to collaborate with Tech for Social Good (and anything adjacant to it). 
 - 🤔 I’m looking for help with anything (always looking to learn new things).
 - 💬 Ask me about content design systems.
 - 😄 Pronouns: she, her.
