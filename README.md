@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently building and delivering education and technical content with SMEs. 
-- :shell: I’m currently learning UX Design, Copilot, ChatGPT, GPT-3.5, etc. 
+- :shell: I’m currently learning UX Design, Copilot, ChatGPT, GPT-3, etc. 
 - :mushroom: I’m looking to collaborate with Tech for Social Good (and anything adjacent to it). 
 - 🤔 I’m looking for help with anything (always looking to learn new things).
 - 💬 Ask me about content design systems.
